@@ -11,5 +11,6 @@ public class Developer implements Employee {
     @Override
     public void showDetails() {
             System.out.println(name + " works as " + position);
+
     }
 }

@@ -20,6 +20,7 @@ public class Manager implements Employee {
         System.out.println("Subordinates:");
         for (Employee e : subordinates) {
             e.showDetails();
+
         }
     }
 }

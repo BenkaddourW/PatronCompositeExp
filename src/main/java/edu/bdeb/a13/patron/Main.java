@@ -14,6 +14,7 @@ public class Main {
         projectManager.addSubordinate(techLead);
         projectManager.addSubordinate(designer);
 
+
         // Affiche la hiérarchie
         projectManager.showDetails();
     }
